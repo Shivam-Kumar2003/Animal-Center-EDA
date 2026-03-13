@@ -1,8 +1,6 @@
 # Exploratory Data Analysis on Animal Center Intakes and Outcomes
 ### Animal Center Data Analysis Dashboard
 
-## Live Dashboard
-🔗 https://animal-center-eda-28.streamlit.app
 #### Live Dashboard
 
 [![Open Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://animal-center-eda-28.streamlit.app)
