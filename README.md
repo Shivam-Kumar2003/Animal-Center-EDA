@@ -3,7 +3,9 @@
 
 ## Live Dashboard
 🔗 https://animal-center-eda-28.streamlit.app
+#### Live Dashboard
 
+[![Open Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://animal-center-eda-28.streamlit.app)
 ## Overview
 This project performs **Exploratory Data Analysis (EDA)** on animal shelter datasets to understand patterns related to animal intake and their final outcomes.  
 The analysis helps in identifying trends such as the types of animals entering shelters, their conditions at intake, and the outcomes after their stay at the shelter.
