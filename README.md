@@ -98,3 +98,12 @@ Total Records: **124,491**
 ---
 
 ## Project Structure
+#### Run Locally
+
+Run the Streamlit app:
+
+streamlit run Dashboard.py
+
+Then open in your browser:
+
+http://localhost:8501
