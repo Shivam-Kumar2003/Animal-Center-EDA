@@ -1,4 +1,4 @@
 
-Pandas
-Matplotlib
-Streamlit
+pandas
+matplotlib
+streamlit
