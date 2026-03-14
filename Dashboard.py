@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Animal Shelter Dashboard", layout="wide")
 
 st.title("Animal Center Data Analysis Dashboard")
-
+st.markdown("Developed by **Shivam Kumar** | Data Analyst Project")
 st.markdown("""
 ### Project Overview
 This dashboard analyzes animal shelter intake and outcome data to identify
